@@ -1,0 +1,2 @@
+# ReduxSimpleStarter
+Redux starter project
